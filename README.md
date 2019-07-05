@@ -15,9 +15,9 @@ Inside assets, create three folders: css, javascript, images
 
 
 
-**In your css folder, create a style.css file. **
-In your javascript folder, create an app.js file; here you'll write all of your JavaScript and jQuery.
-In your images folder, save whatever images you'd like to use in this exercise.
+**In your css folder, create a style.css file.**
+**In your javascript folder, create an app.js file; here you'll write all of your JavaScript and jQuery.**
+**In your images folder, save whatever images you'd like to use in this exercise.**
 
 
 
