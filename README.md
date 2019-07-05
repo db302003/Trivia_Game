@@ -39,4 +39,7 @@ The game ends when the time runs out. The page will reveal the number of questio
 
 
 *Don't let the player pick more than one answer per question.
+
+
+
 *Don't forget to include a countdown timer.
